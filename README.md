@@ -30,10 +30,30 @@
 
 >>> Android、iOS 、Windows Phone等开源项目
 
->>>6.[Android开发资源(stormzhang)](http://www.stormzhang.com/android/2014/06/05/android-awesome-resources/)
+>>>7.[Android开发资源(stormzhang)](http://www.stormzhang.com/android/2014/06/05/android-awesome-resources/)
 
 >>> Android、iOS 、Windows Phone等开源项目
 
->>>7.[codekk 中文版(UI)](http://a.codekk.com)
+>>>8.[codekk 中文版(UI)](http://a.codekk.com)
 
 >>> codekk 源码解析 开源项目  
+
+>>>9.[Android学习之路 中文版(stormzhang)](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+
+>>> Android学习之路  
+
+>>>10.[Android自定义控件实战 (Hongyang UI)](http://blog.csdn.net/lmj623565791/article/category/2680595)
+
+>>> Android自定义控件实战
+
+>>>11.[美团Android自动化之旅—生成渠道包 ](http://tech.meituan.com/mt-apk-packaging.html)
+
+>>> 每当发新版本时，美团团购Android客户端会被分发到各个应用市场，比如豌豆荚，360手机助手等。为了统计这些市场的效果（活跃数，下单数等），需要有一种方法来唯一标识它们。
+
+>>>12.[慕课网 (Video)](http://www.imooc.com/)
+
+>>> 慕课网-国内最大的IT技能学习平台
+
+>>>13.[Android开发者必备的42个网站](http://www.cnblogs.com/purediy/p/3498184.html)
+
+>>> Android开发者必备的42个链接
