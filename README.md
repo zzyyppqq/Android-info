@@ -30,15 +30,15 @@
 
 >>> Android、iOS 、Windows Phone等开源项目
 
->>>7.[Android开发资源(stormzhang)](http://www.stormzhang.com/android/2014/06/05/android-awesome-resources/)
+>>>7.[整理的Android开发资源(stormzhang)](http://www.stormzhang.com/android/2014/06/05/android-awesome-resources/)
 
->>> Android、iOS 、Windows Phone等开源项目
+>>> 整理的Android开发资源
 
 >>>8.[codekk 中文版(UI)](http://a.codekk.com)
 
 >>> codekk 源码解析 开源项目  
 
->>>9.[Android学习之路 中文版(stormzhang)](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+>>>9.[Android学习之路 (stormzhang)](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 
 >>> Android学习之路  
 
@@ -57,3 +57,32 @@
 >>>13.[Android开发者必备的42个网站](http://www.cnblogs.com/purediy/p/3498184.html)
 
 >>> Android开发者必备的42个链接
+
+>>>14.[quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
+
+>>> OSX系统 quick-look-plugins
+
+>>>15.[dribbble](https://dribbble.com/shots/1945376-Search)
+
+>>> 设计、动效相关
+
+>>>16.[推荐几款实用的Android Studio 插件](http://jcodecraeer.com/a/anzhuokaifa/Android_Studio/2015/1009/3557.html)
+
+>>> 推荐几款实用的Android Studio 插件
+
+>>>17.[react-native环境配置](http://www.csdn.net/article/2015-09-24/2825787-react-native)
+
+
+>>>18.[React-Native学习指南](https://github.com/ele828/react-native-guide)
+
+>>>React-Native指南汇集了react-native学习资源与各类开源app
+
+>>>19.[react-native](http://facebook.github.io/react-native/docs/view.html#content)
+
+
+
+
+
+
+
+
